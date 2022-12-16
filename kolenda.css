@@ -1,0 +1,78 @@
+#left
+{
+  float: left;
+  width:33%
+}
+#mid
+{
+  float: left;
+  width:33%
+}
+#right
+{
+  float: left;
+  width:33%
+}
+body
+{
+  background-image: url('deer.jpg')
+}
+.przycisk
+{
+  background-color: orange;
+  font-size: 25px;
+  width:  200px;
+  height: 65px;
+  border-radius: 90px;
+
+}
+.przycisk:hover
+{
+  background-color: red;
+  cursor: pointer;
+  transition: 2s
+  
+}
+#tab
+{
+  margin-left:20px;
+  margin-top:40px;
+  align-items: center;
+  width: 75px;
+  border-style:solid;
+  border-color:greenyellow;
+}
+tr
+{
+  background-image: linear-gradient(rgb(55, 55, 228),white);
+}
+#tab2
+{
+  align-items: center;
+  width: 500px;
+  border-style:solid;
+  border-color:greenyellow;
+  margin-top:40px;
+  height: 760px;
+  text-align: center;
+  font-size: 25px;
+}
+#tr2
+{
+  background-image: linear-gradient(rgb(55, 55, 228),white);
+}
+#start
+{
+  background-color: orange;
+  font-size: 40px;
+  width:  200px;
+  height: 65px;
+  border-radius: 90px;
+}
+#start:hover
+{
+  background-color: red;
+  cursor: pointer;
+  transition: 2s
+  
+}
